@@ -1,21 +1,21 @@
 Authentication-Results: spf=none (sender IP is 89.144.44.2)
  smtp.mailfrom=thcultarfdes.co.uk; dkim=none (message not signed)
  header.d=none;dmarc=permerror action=none header.from=access-accsecurity.com;
-
+---------------------------------------------------------------------------------------
 From: Microsoft account team ,_<no-reply@access-accsecurity.com>
-
+---------------------------------------------------------------------------------------
 Subject: Microsoft account unusual signin activity
-
+---------------------------------------------------------------------------------------
 To: phishing@pot
-
+---------------------------------------------------------------------------------------
 Date: Fri, 8 Sep 2023 05:47:04 +0000
-
+---------------------------------------------------------------------------------------
 Reply-To: sotrecognizd@gmail.com
-
+---------------------------------------------------------------------------------------
 Message-ID: 
  <032672b4-77ca-42f8-a036-9711e91bd1f3@DB8EUR06FT032.eop-eur06.prod.protection.outlook.com>
-
+----------------------------------------------------------------------------------------
 Return-Path: bounce@thcultarfdes.co.uk
-
+----------------------------------------------------------------------------------------
 X-Sender-IP: 89.144.44.2
 
