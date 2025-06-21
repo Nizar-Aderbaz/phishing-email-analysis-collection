@@ -1,0 +1,24 @@
+Authentication-Results: spf=pass (sender IP is 69.169.224.12)
+ smtp.mailfrom=eu-central-1.amazonses.com; dkim=pass (signature was verified)
+ header.d=amazonses.com;dmarc=none action=none header.from=auswestbc.com.au;
+
+From: Binance <noreplysupportbinancewallet.irs@auswestbc.com.au>
+
+
+Subject: "[Binance] Withdraw Successful – 2023-07-30 51 :51 :51(UTC)"
+
+
+To: phishing@pot
+
+Date: Sun, 30 Jul 2023 23 :57 :35 +0000
+
+Received : from b224-12.smtp-out.eu-central-1.amazonses.com (69.169.224.12) by 
+MW2NAM12FT067.mail.protection.outlook.com (10.13.181.33) with Microsoft SMTP Server 
+(version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6631.42 via Frontend Transport ; Sun, 30 Jul 
+2023 23 :57 :36 +0000
+
+Message-ID: <01070189a93c67a5-2d72e19a-1525-41c6-92cb347e9e7f27a5-000000@eu-central1.amazonses.com>
+
+Return-Path: 01070189a93c67a5-2d72e19a-1525-41c6-92cb347e9e7f27a5-000000@eu-central-1.amazonses.com
+
+X-Mailer: PHPMailer 6.1.5
