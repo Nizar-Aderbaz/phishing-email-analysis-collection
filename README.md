@@ -22,8 +22,7 @@ Each folder contains:
 
 ## 👨‍💻 Analyst
 
-Created and maintained by [Nizar Aderbaz]
-🔗 [LinkedIn]((https://www.linkedin.com/in/nizar-aderbaz-a74b16364/))
+Created and maintained by Nizar Aderbaz
 
 ---
 
