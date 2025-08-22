@@ -1,0 +1,48 @@
+Authentication-Results: spf=softfail (sender IP is 159.27.24.86)
+ smtp.mailfrom=cyber.net.pk; dkim=none (message not signed)
+ header.d=none;dmarc=fail action=quarantine
+ header.from=cyber.net.pk;compauth=fail reason=000
+
+
+Received-SPF: SoftFail (protection.outlook.com: domain of transitioning
+ cyber.net.pk discourages use of 159.27.24.86 as permitted sender)
+
+
+Received: from mail.mail04.zhanlingol.com (159.27.24.86) by
+ BN1NAM02FT046.mail.protection.outlook.com (10.13.3.181) with Microsoft SMTP
+ Server id 15.20.6631.47 via Frontend Transport; Wed, 2 Aug 2023 20:09:19
+ +0000
+
+
+
+Received: from User (unknown [147.78.103.9])
+	by mail.mail04.zhanlingol.com (Postfix) with SMTP id 6E01023FE574;
+	Wed,  2 Aug 2023 19:27:40 +0000 (UTC)
+
+
+
+Reply-To: <philipffredrick3690@gmail.com>
+
+
+From: "Philip Fredrick"<ghulammustafa@cyber.net.pk>
+
+
+Subject: 86RE: Donation For You
+
+
+Date: Wed, 2 Aug 2023 19:27:50 -0700
+
+
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+
+
+
+Message-ID:
+ <0bcdb0f2-645d-41e8-8542-9e7541e0914a@BN1NAM02FT046.eop-nam02.prod.protection.outlook.com>
+
+
+
+To: Undisclosed recipients:;
+
+
+Return-Path: ghulammustafa@cyber.net.pk
