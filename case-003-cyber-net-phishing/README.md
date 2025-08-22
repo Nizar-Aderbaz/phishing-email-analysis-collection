@@ -1,5 +1,6 @@
-Case-003: Cyber-Net Phishing Email Analysis
 🔹 Overview
+
+Case-003: Cyber-Net Phishing Email Analysis
 
 This repository contains a hands-on phishing email analysis conducted on a suspicious email claiming to be from “Philip Fredrick” (ghulammustafa@cyber.net.pk). The analysis focuses on identifying malicious indicators, verifying email authenticity, and assessing potential risks to users.
 
