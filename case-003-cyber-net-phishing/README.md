@@ -1,10 +1,10 @@
-🔹 Overview
+# Overview
 
 Case-003: Cyber-Net Phishing Email Analysis
 
 This repository contains a hands-on phishing email analysis conducted on a suspicious email claiming to be from “Philip Fredrick” (ghulammustafa@cyber.net.pk). The analysis focuses on identifying malicious indicators, verifying email authenticity, and assessing potential risks to users.
 
-🔹 Project Details
+## Project Details
 
 Analyst: Nizar Aderbaz
 
@@ -16,7 +16,7 @@ Sender: ghulammustafa@cyber.net.pk
 
 Recipient: phishing@pot
 
-🔹 Objectives
+## Objectives
 
 Analyze email headers for originating IPs and delivery paths.
 
@@ -28,7 +28,7 @@ Evaluate email content for phishing indicators.
 
 Demonstrate automation in header analysis.
 
-🔹 Tools & Resources
+## Tools & Resources
 
 ThunderBird – email client inspection
 
@@ -39,7 +39,7 @@ VirusTotal – IP reputation checks
 AbuseIPDB – malicious IP reporting
 
 
-🔹 Key Findings
+## Key Findings
 
 Sender spoofing: From ghulammustafa@cyber.net.pk but replies redirected to philipffredrick3690@gmail.com
 
@@ -53,7 +53,7 @@ Malicious IPs:
 
 Content quality: Poor grammar and social engineering attempts promising $10.5M
 
-🔹 Automation & Analysis
+## Automation & Analysis
 
 MXToolbox Email Header Analyzer was used to automate parsing of email headers, quickly identifying:
 
